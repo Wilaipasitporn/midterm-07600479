@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_distance">Enter distance (meter)</string>
+    <string name="enter_time">Enter time (second)</string>
+    <string name="Cl">Clear</string>
+    <string name="Ca">Calculator</string>
+    <string name="average_speed">Average Speed (km/h)</string>
+</resources>

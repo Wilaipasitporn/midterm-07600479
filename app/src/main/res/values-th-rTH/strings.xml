@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter_distance">กรอกระยะทาง (เมตร)</string>
+    <string name="enter_time">กรอกเวลา (วินาที)</string>
+    <string name="Cl">ล้าง</string>
+    <string name="Ca">คำนวณ</string>
+    <string name="average_speed">ความเร็วเฉลี่ย (กม./ชม.)</string>
+</resources>
